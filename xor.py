@@ -1,0 +1,5 @@
+input1 = int('00100011',2)  
+input2 = int('00101101',2) 
+print bin(input1)           
+print bin(input2)          
+print bin(input1 ^ input2)  
